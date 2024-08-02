@@ -1,1 +1,1 @@
-para ter acesso ao porjeto, é necessário extrair o arquivo
+no modelo 2 fiz algumas mudanças e organizei melhor as pastas
